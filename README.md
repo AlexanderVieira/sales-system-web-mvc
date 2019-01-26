@@ -1,2 +1,2 @@
 # sales-system-web-mvc
-Project developed in .NET CORE with csharp
+Project developed in ASP.NET Core with csharp
